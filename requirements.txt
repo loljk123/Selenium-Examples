@@ -1,0 +1,6 @@
+selenium
+colorlog
+logger
+numpy
+requests
+pyttsx3
